@@ -1,6 +1,6 @@
-# PHP
+# POO PHP
 
-Les bases de PHP :
+Les bases de la POO avec PHP :
 
 - Création des classes et des objets
 
